@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](#tech-stack)
 [![Algorithms](https://img.shields.io/badge/Domain-Graph%20Search%20%26%20Pathfinding-2ea44f?style=for-the-badge)](#algorithms-compared)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -86,9 +85,3 @@ Enter destination city: Ashland
 - `graph.py` — Graph representation, adjacency structures, and Haversine distance calculations.
 - `vertices_v1.txt` — Oregon city coordinates (latitude / longitude).
 - `graph_v2.txt` — Weighted highway edge definitions between Oregon vertices.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
